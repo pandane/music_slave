@@ -1,0 +1,6 @@
+*.ignore
+*credentials.py
+*.pyc
+__pycache__/*
+id_rsa*
+*.ignore
